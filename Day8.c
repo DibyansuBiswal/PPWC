@@ -1,3 +1,5 @@
+//Assignment 3 Q6
+
 #include <stdio.h>
 
 void findDifference(int p[], int sizeP, int q[], int sizeQ) {
