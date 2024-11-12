@@ -21,7 +21,7 @@ void countCharacters(char str[]) {
 }
 
 int main() {
-    char str[] = "bintu";
+    char str[] = "Krishu";
 
     countCharacters(str);
 
